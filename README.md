@@ -13,7 +13,7 @@
 <!-- ✨ 中心文字介绍 -->
 <p align="center">
   <strong>HELAOOO</strong><br/>
-  you can call me <strong>ONI or TOTO  <img src="https://raw.githubusercontent.com/onionibaby/onionibaby/main/pcnv78.jpg" width="16px" style="vertical-align:middle;"/>
+  you can call me <strong>🍀 ONI or TOTO 🍀 
 </p></strong>
 </p>
 
@@ -24,7 +24,7 @@
 
 <!-- 🔸 小字备注 -->
 <p align="center">
-  <sub><i>(yall i made this masuka heheee :p )</i></sub>
+  <sub><i>(yaaayll i made this masuka heheee :p )</i></sub>
 </p>
 
 <!-- 🎬 兴趣介绍 -->
