@@ -24,7 +24,7 @@
 
 <!-- 🔸 小字备注 -->
 <p align="center">
-  <sub><i>(yaaayll i made this masuka heheee :p )</i></sub>
+  <sub><i>(yaaayll i made this masuka i like masuka heheee :p )</i></sub>
 </p>
 
 <!-- 🎬 兴趣介绍 -->
