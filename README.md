@@ -1,47 +1,46 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/onionibaby/onionibaby/main/tumblr_bf16df5b11f16816b7b75ee20c81f913_c9820137_1280.png" width="100%"/>
+<!-- 👁 浏览量放左上角 -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=onionibaby&color=A8E05F" alt="profile views" height="20px"/>
 </p>
 
-𖥔 ݁ ˖  ⌗ ﹒　　.  𖥔 ݁  ˖๋  ࣭　｡･:    *   ˚: ✧｡  　　　　　　　　　　　　　　
-
-**helaooo**
-
-you can call me **ONI or TOTO 🌱**
-
+<!-- 🌟 颜文字分隔条 -->
 <p align="center">
-  <!-- 左右贴纸和主图 -->
-  <img src="https://raw.githubusercontent.com/onionibaby/onionibaby/main/Tumblr-l-225137606254948.gif" width="80px" align="left"/>
-  <img src="https://raw.githubusercontent.com/onionibaby/onionibaby/main/fa0518c95bc7060f6eba74a431a811f3.jpg" width="350px"/>
-  <img src="https://raw.githubusercontent.com/onionibaby/onionibaby/main/0230-plantpot.gif" width="80px" align="right"/>
+⨳ 𓏲˖    ⋆˚.    °✦　⋆  ˙⟡　⊹ ₊  ⟡⋆    `✦ ˑ ִֶ   𓂃⊹  　.𖥔   ݁ ˖⌗﹒　　.𖥔   ݁ ˖๋   ࣭    ˖   ✧   ⊹
 </p>
 
+<!-- ✨ 中心文字介绍 -->
 <p align="center">
-  <!-- 第一排贴纸图 -->
-  <img src="https://raw.githubusercontent.com/onionibaby/onionibaby/main/2ha1xk.gif" width="60px"/>
-  <img src="https://raw.githubusercontent.com/onionibaby/onionibaby/main/tumblr_dbb2c24a9d8c8c8d0e5f8050346adfe8_8743a7ef_75.gif" width="60px"/>
-  <img src="https://raw.githubusercontent.com/onionibaby/onionibaby/main/mfosyp.gif" width="60px"/>
+  <strong>HELAOOO</strong><br/>
+  you can call me <strong>ONI or TOTO 🌱</strong>
 </p>
 
-**𓆩 im currently into with DEXTER and HARRYPOTTER**  
-**⟢ will probably upload pictures and gifs soon**
-
+<!-- 🖼️ 插入自制图像 -->
 <p align="center">
-  <!-- 第二排贴纸图 -->
-  <img src="https://raw.githubusercontent.com/onionibaby/onionibaby/main/pcnv78.jpg.png" width="60px"/>
-  <img src="https://raw.githubusercontent.com/onionibaby/onionibaby/main/ielwtp.gif" width="60px"/>
-  <img src="https://raw.githubusercontent.com/onionibaby/onionibaby/main/tumblr_33df89a383a78edbade2c6d872e4ecc1_996beaea_250.gif" width="60px"/>
+  <img src="https://raw.githubusercontent.com/onionibaby/onionibaby/main/appllll!!Llllwlwlwl%20masukaa!!.PNG" width="300px"/>
 </p>
 
+<!-- 🔸 小字备注 -->
 <p align="center">
-  <!-- 最后一排贴纸图 -->
-  <img src="https://raw.githubusercontent.com/onionibaby/onionibaby/main/tumblr_3a7e3dffa587f81b565bba3bb0894a19_28afa691_250.gif" width="60px"/>
-  <img src="https://raw.githubusercontent.com/onionibaby/onionibaby/main/tumblr_7f999c9281ceecb4c97c1d84e9b12a4d_cff9f2cc_75.gif" width="60px"/>
+  <sub><i>(yall i made this masuka heheee :p )</i></sub>
+</p>
+
+<!-- 🎬 兴趣介绍 -->
+<p align="center">
+  <strong>𓆩 currently into: DEXTER and HARRY POTTER</strong>
+</p>
+
+<!-- 🧸 图片展示（共五张） -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/onionibaby/onionibaby/main/Tumblr-l-225137606254948.gif" width="60px"/>
   <img src="https://raw.githubusercontent.com/onionibaby/onionibaby/main/Tumblr-l-163064350461126.png" width="60px"/>
-  <img src="https://raw.githubusercontent.com/onionibaby/onionibaby/main/geq669.gif" width="60px"/>
+  <img src="https://raw.githubusercontent.com/onionibaby/onionibaby/main/tumblr_5378782d238139cd392a1494ef183f4f_420475a5_100.png" width="60px"/>
+  <img src="https://raw.githubusercontent.com/onionibaby/onionibaby/main/3s56vo.png" width="60px"/>
+  <img src="https://raw.githubusercontent.com/onionibaby/onionibaby/main/tumblr_015ab23698345d08513c0a11ec219f55_3c6fa9ec_100" width="60px"/>
 </p>
 
-**[strawpage 🍏](https://oniok.straw.page)**
-
+<!-- 🍏 StrawPage链接 -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/onionibaby/onionibaby/main/tumblr_bf16df5b11f16816b7b75ee20c81f913_c9820137_1280.png" width="100%"/>
+  <a href="https://oniok.straw.page" style="color:#A8E05F; font-size:13px;">
+    <sub><strong>strawpage 🍏</strong></sub>
+  </a>
 </p>
