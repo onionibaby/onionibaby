@@ -13,7 +13,7 @@
 <!-- ✨ 中心文字介绍 -->
 <p align="center">
   <strong>HELAOOO</strong><br/>
-  you can call me <strong>🍀 ONI or TOTO 🍀 
+  you can call me <strong>🍀 ONI or TOTO 🌱 
 </p></strong>
 </p>
 
@@ -40,6 +40,12 @@
   <img src="https://raw.githubusercontent.com/onionibaby/onionibaby/main/tumblr_5378782d238139cd392a1494ef183f4f_420475a5_100.png" width="60px"/>
   <img src="https://raw.githubusercontent.com/onionibaby/onionibaby/main/3s56vo.png" width="60px"/>
   <img src="https://raw.githubusercontent.com/onionibaby/onionibaby/main/Tumblr-l-114423625342443.png" width="60px"/>
+</p>
+
+<p align="center">
+  <span style="display:inline-block; border: 1px solid #A8E05F; border-radius: 6px; padding: 2px 6px; font-size: 9px; color: #6C824F;">
+    🟢 online ・ 🌙 half online ・ 🔴 busy wip/afk
+  </span>
 </p>
 
 <!-- 🍏 StrawPage链接 -->
