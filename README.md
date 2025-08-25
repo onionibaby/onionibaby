@@ -13,18 +13,18 @@
 <!-- ✨ 中心文字介绍 -->
 <p align="center">
   <strong>HELAOOO</strong><br/>
-  you can call me <strong>🍀 ONI or TOTO 🌱 
+  you can call me <strong>🍀 ONI or TOTO 🥒 
 </p></strong>
 </p>
 
 <!-- 🖼️ 插入自制图像（放大版） -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/onionibaby/onionibaby/main/appllll!!Llllwlwlwl%20masukaa!!.PNG" width="400px"/>
+  <img src="https://raw.githubusercontent.com/onionibaby/onionibaby/main/IMG_5442.PNG" width="400px"/>
 </p>
 
 <!-- 🔸 小字备注 -->
 <p align="center">
-  <sub><i>(yaaayll i made this masuka i like masuka heheee)</i></sub>
+  <sub><i>(my birthday screenshot with loovely frineds and regulus gang!! ilove yall!!)</i></sub>
 </p>
 
 <!-- 🎬 兴趣介绍 -->
