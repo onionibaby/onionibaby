@@ -4,5 +4,5 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/onionibaby/onionibaby/main/鸟3.png" width="800px" style="vertical-align:middle;"/>
+  <img src="https://raw.githubusercontent.com/onionibaby/onionibaby/main/鸟4.png" width="800px" style="vertical-align:middle;"/>
 </p>
