@@ -5,12 +5,12 @@
 
 <!-- 🖼️ 插入自制图像（放大版） -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/onionibaby/onionibaby/main/IMG_5442.PNG" width="400px"/>
+  <img src="https://raw.githubusercontent.com/onionibaby/onionibaby/main/appllll!!Llllwlwlwl masukaa!!.PNG" width="400px"/>
 </p>
 
 <!-- 🔸 小字备注 -->
 <p align="center">
-  <sub><i>(my birthday screenshot with loovely frineds and regulus gang!! ilove yall!!)</i></sub>
+  <sub><i>(apple masuka)</i></sub>
 </p>
 
 <!-- ✦ cucumber + strawpage 链接（small caps + 装饰符 + 无下划线） -->
