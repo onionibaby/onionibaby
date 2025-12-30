@@ -10,7 +10,7 @@
 
 <!-- 🔸 小字备注 -->
 <p align="center">
-  <sub><i>(artby: likeafunerall)</i></sub>
+  <sub><i>artby: likeafunerall</sub>
 </p>
 
 <!-- ✦ cucumber + strawpage 链接（small caps + 装饰符 + 无下划线） -->
@@ -20,9 +20,3 @@
   <a href="https://harrypotter.fandom.com/wiki/Regulus_Black" target="_blank" style="text-decoration:none; color:DCD189; font-family:monospace;">ɪ ʟᴏᴠᴇ ʟᴏᴠᴇ ʀᴇɢᴜʟᴜꜱ ʙʟᴀᴄᴋ</a>
 </p>
 
-<!-- 🌙 状态（small caps + 装饰符） -->
-<p align="center">
-  <sub style="font-family:monospace; color:DCD189;">
-    🟢 ᴏɴʟɪɴᴇ✦ ・ ˖🌙 ʜᴀʟꜰ ᴏɴʟɪɴᴇ˖ ・ ‧⛔️ ʙᴜꜱʏ ᴡɪᴘ/ᴀꜰᴋ‧
-  </sub>
-</p>
