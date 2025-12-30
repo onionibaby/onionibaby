@@ -5,7 +5,7 @@
 
 <!-- 🖼️ 插入自制图像（放大版） -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/onionibaby/onionibaby/main/appllll!!Llllwlwlwl masukaa!!.PNG" width="400px"/>
+  <img src="https://raw.githubusercontent.com/onionibaby/onionibaby/main/likeafunerall.jpg" width="400px"/>
 </p>
 
 <!-- 🔸 小字备注 -->
@@ -23,6 +23,6 @@
 <!-- 🌙 状态（small caps + 装饰符） -->
 <p align="center">
   <sub style="font-family:monospace; color:DCD189;">
-    ✦🟢 ᴏɴʟɪɴᴇ✦ ・ ˖🌙 ʜᴀʟꜰ ᴏɴʟɪɴᴇ˖ ・ ‧⛔️ ʙᴜꜱʏ ᴡɪᴘ/ᴀꜰᴋ‧
+    🟢 ᴏɴʟɪɴᴇ✦ ・ ˖🌙 ʜᴀʟꜰ ᴏɴʟɪɴᴇ˖ ・ ‧⛔️ ʙᴜꜱʏ ᴡɪᴘ/ᴀꜰᴋ‧
   </sub>
 </p>
