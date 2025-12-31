@@ -5,7 +5,7 @@
 
 <!-- 🖼️ 插入自制图像 -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/onionibaby/onionibaby/main/newregggithubhehehe.gif" width="1000"/>
+  <img src="https://raw.githubusercontent.com/onionibaby/onionibaby/main/newregggithubhehehe.gif" width="1500"/>
 </p>
 
 <!-- 🔸 小字备注 -->
