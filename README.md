@@ -31,4 +31,11 @@
      style="text-decoration:none; color:DCD189; font-family:monospace;">
      aᴛᴀʙᴏᴏᴋ
   </a>
+ </a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://blacklambmp4.straw.page"
+     target="_blank"
+     style="text-decoration:none; color:DCD189; font-family:monospace;">
+     ᴏɴɪᴇ × ʀᴇɢᴜʟᴜs
+
 </p>
